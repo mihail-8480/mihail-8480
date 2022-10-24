@@ -44,8 +44,5 @@
 
 </div>
 <h4>and more...</h4>
-
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=mihail-8480&theme=vision-friendly-dark&background=000000)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mihail-8480&layout=compact&theme=vision-friendly-dark)
 </div>
