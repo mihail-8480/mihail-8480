@@ -44,5 +44,4 @@
 
 </div>
 <h4>and more...</h4>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mihail-8480&layout=compact&theme=vision-friendly-dark)
 </div>
